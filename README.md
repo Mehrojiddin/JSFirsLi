@@ -6,5 +6,5 @@ We need do this equation: y=x*2+x*3+6
 # Task 3 Percent
 We have number and we need find ertain percentage from number:
 Find 10% from 560
-# Task 3 Number from procen
+# Task 4 Number from procen
 We have x and y. If x is 100%. What percentage of y is of x?:
