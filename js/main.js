@@ -10,6 +10,11 @@
 // console.log(`${x**2+x**3+6}`);
 
 // Task 3
-let x = +prompt("Enter first value: ");
-let y = +prompt("Enter second value: ");
-console.log(`${x*y/100}`);
+// let x = +prompt("Enter first value: ");
+// let y = +prompt("Enter second value: ");
+// console.log(`${x*y/100}`);
+
+// Task 4
+let x = +prompt("Enter first number ");
+let y = +prompt("Enter second number: ");
+console.log(`${x*100/y}`);
